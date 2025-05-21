@@ -48,14 +48,6 @@ A comprehensive dashboard summarizing key U.S. labor market indicators such as e
 * Data cleaning and aggregation
 * Economic trend analysis
 
----
-
-### 4. **Project Management Tracker**
-
-**File:** `Abeera_Project worksheet.xlsx`
-**Description:**
-A project management worksheet designed to track tasks, timelines, deliverables, and resource allocation. The sheet uses Gantt charts and status trackers to visualize project progress and flag risks or delays.
-
 **Key skills demonstrated:**
 
 * Project tracking and Gantt charts
